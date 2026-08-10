@@ -42,3 +42,9 @@ Please read CONTRIBUTING.md for details on our code of conduct.
 ## 📄 License
 This project is licensed under the MIT License.
 Use code with caution.📝 Common Markdown SyntaxThe .md extension stands for Markdown, which formats plain text using symbols:SyntaxOutput Result# Heading 1Main Title## Heading 2Section Subtitle**text**Bold text* itemUnordered list bullet`code`Inline code highlighting[Text](URL)Hyperlinks
+
+
+
+:rocket:
+:warning:
+
